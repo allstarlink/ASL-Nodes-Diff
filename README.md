@@ -1,3 +1,6 @@
+<h1 align=center>THIS REPOSITORY HAS BEEN ARCHIVED. SEE <a href="/AllStarLink/asl3-update-nodelist">ASL3-UPDATE-NODELIST</a></h1>
+
+
 # asl-nodes-diff
 
 Client and server for differential node updates from AllStarLink.
