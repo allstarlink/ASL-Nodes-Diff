@@ -1,4 +1,4 @@
-<h1 align=center>THIS REPOSITORY HAS BEEN ARCHIVED. SEE <a href="/AllStarLink/asl3-update-nodelist">ASL3-UPDATE-NODELIST</a></h1>
+<h1 align=center>THIS REPOSITORY HAS BEEN ARCHIVED. SEE <a href="https://github.com/AllStarLink/asl3-update-nodelist">ASL3-UPDATE-NODELIST</a></h1>
 
 
 # asl-nodes-diff
